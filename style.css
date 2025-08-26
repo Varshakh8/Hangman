@@ -1,0 +1,27 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  text-align: center;
+  background-color: #9b69e7;
+  padding: 30px;
+}
+
+.game-container {
+  background-color: rgb(245, 157, 245);
+  padding: 30px;
+  border-radius: 10px;
+  max-width: 500px;
+  margin: auto;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+#letter-buttons button {
+  margin: 5px;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+#restart-btn {
+  margin-top: 20px;
+  padding: 10px 20px;
+}
